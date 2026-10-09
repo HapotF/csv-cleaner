@@ -44,3 +44,8 @@ The cleaned file will be saved as:
 ```text
 cleaned.csv
 ```
+
+## Requirements
+
+- Python 3.x
+- No external dependencies required
